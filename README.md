@@ -1,7 +1,7 @@
 # android-richText
 处理简单的富文本，支持在文本中添加、删除、，插入图片，支持插入超链接
 
-#Usage
+# Usage
 1. 将 ```lib/richtext-lib.jar``` 此jar包复制到主项目的libs下
 
 2. 在主项目的 ```build.gradle``` 的dependencies下添加如下：
